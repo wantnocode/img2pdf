@@ -2,6 +2,8 @@
 
 Merge and convert the image set into PDF
 
+<img src="https://github.com/wantnocode/img2pdf/blob/main/result.png" alt="示例图片" width="220" height="300">
+
 
 # Steps
 
