@@ -1,0 +1,31 @@
+{
+  "type":"module",
+  "name": "img2pdf",
+  "version": "1.0.0",
+  "description": "img2pdf",
+  "main": "index.js",
+  "scripts": {
+    "build":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wantnocode/img2pdf.git"
+  },
+  "keywords": [
+    "img2pdf",
+    "png2pdf",
+    "jpg2pdf",
+    "jpg",
+    "pdf"
+  ],
+  "author": "wlove",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wantnocode/img2pdf/issues"
+  },
+  "homepage": "https://github.com/wantnocode/img2pdf#readme",
+  "dependencies": {
+    "pdf-lib": "^1.17.1"
+  }
+}
